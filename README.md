@@ -1,6 +1,6 @@
 # Nicholas Kashani Motlagh
 
-PhD candidate at Ohio State / OSU CVL working on model evaluation, uncertainty, abstention, routing, and reliable ML systems.
+I received my PhD from Ohio State / OSU CVL working in model evaluation, uncertainty, abstention, routing, and reliable ML systems.
 
 I build and evaluate ML systems that need to know when to answer, abstain, route, or refine. My current work is centered on LLM evaluation and selective prediction, with a practical emphasis on reproducible research artifacts, PyTorch, and distributed training workflows.
 
